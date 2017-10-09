@@ -21,4 +21,5 @@ A list of all public EEG-datasets
   5. http://bcmi.sjtu.edu.cn/~seed/ [not responding] 
   6. EEG Databases for Emotion Recognition, NTU 
   7. https://engineuring.wordpress.com/2009/07/08/downloadable-eeg-data/ 
+  8. http://www.brainsignals.de/
   
