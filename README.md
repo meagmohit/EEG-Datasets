@@ -23,4 +23,10 @@ A list of all public EEG-datasets
   7. https://engineuring.wordpress.com/2009/07/08/downloadable-eeg-data/ 
   8. http://www.brainsignals.de/
   9. http://www.fil.ion.ucl.ac.uk/spm/data/
+  10. http://www.brainliner.jp/search/showall/1
+  11. http://bnci-horizon-2020.eu/database/data-sets
+  12. https://sites.google.com/site/projectbci/
+  13. http://archive.ics.uci.edu/ml/datasets/EEG+Database
+  14. http://www.physionet.org/pn4/eegmmidb/
+  15. http://www.physionet.org/pn6/chbmit/
   
