@@ -12,6 +12,11 @@ A list of all public EEG-datasets
   3. `Imagined Emotion [http://headit.ucsd.edu/studies/3316f70e-35ff-11e3-a2a9-0050563f2612] : ` 31 subjects, subjects listen to voice recordings that suggest an emotional feeling and ask subjects to imagine an emotional scenario or to recall an experience in which they have felt that emotion before.
   4. `NeuroMarketing [https://drive.google.com/open?id=0B2T1rQUvyyWcSGVVaHZBZzRtTms] : ` 25 subjects, 14 electrodes, Like/Dislike on commercial e-commerce products over 14 categories with 3 images each.
   
+* **Error-Related Potentials (ErrP)**
+  1. `BCI-NER Challenge [https://www.kaggle.com/c/inria-bci-challenge] : ` 26 subjects, 56 EEG Channels for a P300 Speller task, and labeled dataset for the response elicited when P300 decodes a correct or incorrect letter.
+  
+  2. `Monitoring ErrP in a target selection task: ` 6 subjects with 64 EEG electrodes, watching a cursor move towards a target square, and elicited responses are labeled based on whether the cursor moves in right or wrong direction
+  
   
   
 ### Others [Unfiltered]
