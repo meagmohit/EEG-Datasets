@@ -18,7 +18,8 @@ A list of all public EEG-datasets
   2. `Monitoring ErrP in a target selection task [http://bnci-horizon-2020.eu/database/data-sets]: ` 6 subjects with 64 EEG electrodes, watching a cursor move towards a target square, and elicited responses are labeled based on whether the cursor moves in right or wrong direction
   
 * **Resting State**
-  1. `Resting State EEG Data [https://dataverse.tdl.org/dataverse/txstatecogelectro] : ` 22 subjects, 72 EEG Channels for a resting task of 8 mins with 4 mins of eyes closed and 4 mins of eyes open.
+  1. `Resting State EEG Data [https://dataverse.tdl.org/dataverse/txstatecogelectro] : ` 22 subjects, 72 EEG Channels for a resting task of 8 mins with 4 mins of eyes closed and 4 mins of eyes open. Article can be accessed at: https://www.frontiersin.org/articles/10.3389/fnins.2017.00425
+  
   
   
   
