@@ -20,13 +20,14 @@ A list of all public EEG-datasets
 * **Resting State**
   1. `Resting State EEG Data [https://dataverse.tdl.org/dataverse/txstatecogelectro] : ` 22 subjects, 72 EEG Channels for a resting task of 8 mins with 4 mins of eyes closed and 4 mins of eyes open. Article can be accessed at: https://www.frontiersin.org/articles/10.3389/fnins.2017.00425
   
+* **Music and EEG**
+  1. `Music Imagery Information Retrieval [https://github.com/sstober/openmiir] : ` 10 subjects, 64 EEG Channels for a music imagery task of 12 different pieces w/ different meter, length and tempo. Article can be accessed at: https://pdfs.semanticscholar.org/cde4/b1ec89f2c05a41f1143792a890a00e89541a.pdf 
   
-  
+    
   
 ### Others [Unfiltered]
   1. https://sccn.ucsd.edu/~arno/fam2data/publicly_available_EEG_data.html - http://headit.ucsd.edu/studies 
-  2. https://github.com/sstober/openmiir 
-[from here for emotion] 
+  2. https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software
   3. https://github.com/pbashivan/EEGLearn/tree/master/Sample%20data 
   4. Section 2: https://arxiv.org/pdf/1611.08024.pdf 
   5. http://bcmi.sjtu.edu.cn/~seed/ [not responding] 
@@ -41,5 +42,4 @@ A list of all public EEG-datasets
   14. https://www.physionet.org/physiobank/database/#neuro
   15. http://www.physionet.org/pn6/chbmit/
   16. https://sites.google.com/site/iitrcsepradeep7/resume
-  17. https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software
   
