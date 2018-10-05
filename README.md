@@ -22,6 +22,9 @@ A list of all public EEG-datasets
   
 * **Music and EEG**
   1. `Music Imagery Information Retrieval [https://github.com/sstober/openmiir] : ` 10 subjects, 64 EEG Channels for a music imagery task of 12 different pieces w/ different meter, length and tempo. Article can be accessed at: https://pdfs.semanticscholar.org/cde4/b1ec89f2c05a41f1143792a890a00e89541a.pdf 
+
+* **Clinical EEG**
+  1. `TUH EEG Resources [https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml] : ` Massive amount of data for (i) Abnormal EEG and (ii) EEG Seizures
   
     
   
