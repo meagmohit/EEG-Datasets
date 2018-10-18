@@ -4,6 +4,7 @@ A list of all public EEG-datasets
 * **Motor-Imagery**
   1. `Left/Right Hand MI [http://gigadb.org/dataset/100295]: ` Includes 52 subjects (38 validated subjects with discriminative features), results of physiological and psychological questionnares, EMG Datasets, location of 3D EEG electrodes, and EEGs for non-task related states
   2. `Motor Movement/Imagery Dataset [https://www.physionet.org/physiobank/database/eegmmidb/]:` Includes 109 volunteers, 64 electrodes, 2 baseline tasks (eye-open and eye-closed), motor movement, and motor imagery (both fists or both feet)
+  3.`Grasp and Lift EEG Challenge [https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data]` 12 subjects, 32channels@500Hz, for 6 grasp and lift  events, namely a). HandStart b). FirstDigitTouch c). BothStartLoadPhase d). LiftOff e). Replace  f). BothReleased
   
   
 * **Emotion-Recognition**
@@ -45,4 +46,5 @@ A list of all public EEG-datasets
   14. https://www.physionet.org/physiobank/database/#neuro
   15. http://www.physionet.org/pn6/chbmit/
   16. https://sites.google.com/site/iitrcsepradeep7/resume
+  17. https://github.com/robintibor/high-gamma-dataset
   
