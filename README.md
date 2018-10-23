@@ -47,4 +47,11 @@ A list of all public EEG-datasets
   15. http://www.physionet.org/pn6/chbmit/
   16. https://sites.google.com/site/iitrcsepradeep7/resume
   17. https://github.com/robintibor/high-gamma-dataset
+  18. http://www.mindbigdata.com/opendb/imagenet.html
+  19. http://mindbigdata.com/opendb/index.html
+  20. http://memory.psych.upenn.edu/RAM
+  21. http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/
+  22. http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets
+  23. http://studycatalog.org/
+  24. 
   
