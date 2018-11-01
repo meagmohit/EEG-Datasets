@@ -5,6 +5,7 @@ A list of all public EEG-datasets
   1. `Left/Right Hand MI [http://gigadb.org/dataset/100295]: ` Includes 52 subjects (38 validated subjects with discriminative features), results of physiological and psychological questionnares, EMG Datasets, location of 3D EEG electrodes, and EEGs for non-task related states
   2. `Motor Movement/Imagery Dataset [https://www.physionet.org/physiobank/database/eegmmidb/]:` Includes 109 volunteers, 64 electrodes, 2 baseline tasks (eye-open and eye-closed), motor movement, and motor imagery (both fists or both feet)
   3. `Grasp and Lift EEG Challenge [https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data]` 12 subjects, 32channels@500Hz, for 6 grasp and lift  events, namely a). HandStart b). FirstDigitTouch c). BothStartLoadPhase d). LiftOff e). Replace  f). BothReleased
+  4. `The largest SCP data of Motor-Imagery [https://doi.org/10.6084/m9.figshare.c.3917698]` The dataset contains 60 hours of EEG BCI recordings across 75 recording sessions of 13 participants, 60,000 mental imageries, and 4 BCI interaction paradigms, with multiple recording sessions and paradigms of the same individuals. BCI interactions involving up to 6 mental imagery states are considered. Article describing the dataset can be accessed at: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190745/pdf/sdata2018211.pdf
   
   
 * **Emotion-Recognition**
