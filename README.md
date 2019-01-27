@@ -1,5 +1,5 @@
 # EEG-Datasets
-A list of all public EEG-datasets
+A list of all public EEG-datasets. This list of EEG-resources is not exhaustive. If you find something new, or have explored any unfiltered link in depth, please update the repository.
 
 * **Motor-Imagery**
   1. `Left/Right Hand MI [http://gigadb.org/dataset/100295]: ` Includes 52 subjects (38 validated subjects with discriminative features), results of physiological and psychological questionnares, EMG Datasets, location of 3D EEG electrodes, and EEGs for non-task related states
@@ -56,4 +56,5 @@ A list of all public EEG-datasets
   23. http://studycatalog.org/
   24. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8616018
   25. https://arxiv.org/pdf/1805.06427.pdf
+  26. https://github.com/NeuroTechX/awesome-bci#brain-databases
   
