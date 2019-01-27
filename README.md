@@ -55,4 +55,5 @@ A list of all public EEG-datasets
   22. http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets
   23. http://studycatalog.org/
   24. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8616018
+  25. https://arxiv.org/pdf/1805.06427.pdf
   
