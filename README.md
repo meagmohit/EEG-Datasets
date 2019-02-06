@@ -31,9 +31,14 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   
 * **Music and EEG**
   1. [Music Imagery Information Retrieval](https://github.com/sstober/openmiir): 10 subjects, 64 EEG Channels for a music imagery task of 12 different pieces w/ different meter, length and tempo. [[Article]](https://pdfs.semanticscholar.org/cde4/b1ec89f2c05a41f1143792a890a00e89541a.pdf)
+  
+* **Miscellaneous**
+  1. [MNIST Brain Digits](http://mindbigdata.com/opendb/index.html): EEG data when a digit(0-9) is shown to the subject, recorded 2s for a single subject using Minwave, EPOC, Muse, Insight. Includes over 1.2M samples. 
+  2. [Imagenet Brain](http://www.mindbigdata.com/opendb/imagenet.html): A random image is shown (out of 14k images from the Imagenet ILSVRC2013 train dataset) and EEG signals are recorded for 3s for one subject. Includes over 70k samples.
 
 * **Clinical EEG**
   1. [TUH EEG Resources](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml): Massive amount of data for (i) Abnormal EEG and (ii) EEG Seizures
+  
   
     
   
@@ -55,13 +60,12 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   15. http://www.physionet.org/pn6/chbmit/
   16. https://sites.google.com/site/iitrcsepradeep7/resume
   17. https://github.com/robintibor/high-gamma-dataset
-  18. http://www.mindbigdata.com/opendb/imagenet.html
-  19. http://mindbigdata.com/opendb/index.html
-  20. http://memory.psych.upenn.edu/RAM
-  21. http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/
+  18. http://memory.psych.upenn.edu/RAM
+  19. http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/
+  20. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8616018
+  21. https://arxiv.org/pdf/1805.06427.pdf
   22. http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets
   23. http://studycatalog.org/
-  24. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8616018
-  25. https://arxiv.org/pdf/1805.06427.pdf
-  26. https://github.com/NeuroTechX/awesome-bci#brain-databases
+  24. https://github.com/NeuroTechX/awesome-bci#brain-databases
+
   
