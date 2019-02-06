@@ -9,6 +9,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   5. [BCI Competition IV-2a](http://www.bbci.de/competition/iv/#dataset2a): 22-electrode EEG motor-imagery dataset,  with 9 subjects and 2 sessions, each with 288 four-second trials of imagined movements per subject. Includes movements of the left hand,the right hand, the feet and the tongue. [[Dataset Description]](http://www.bbci.de/competition/iv/desc_2a.pdf)
   6. [BCI Competition IV-2b](http://www.bbci.de/competition/iv/#dataset2b): 3-electrode EEG motor-imagery dataset with 9 subjects and 5 sessions of imagined movements of the left or the right hand, the latest 3 sessions include online feedback. [[Dataset Description]](http://www.bbci.de/competition/iv/desc_2b.pdf)
   7. [High-Gamma Dataset](https://github.com/robintibor/high-gamma-dataset): 128-electrode dataset obtained from 14 healthy subjects with roughly 1000 four-second trials of executed movements divided into 13 runs per subject.  The four classes of movements were movements of either the left hand, the right hand, both feet, and rest.
+  8. [Left/Right Hand 1D/2D movements](https://sites.google.com/site/projectbci/): 19-electrode data of one subject with various combinations of 1D and 2D hand movements (actual execution). 
   
 * **Emotion-Recognition**
   1. [DEAP](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/): Includes 32 subjects, each watchine 1-min long excerpts of music-videos, rated by users in terms of arousal/valence/like-dislike/dominanace/famaliarity, and frontal face recording of 22/32 subejcts.
@@ -58,12 +59,10 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   9. http://www.fil.ion.ucl.ac.uk/spm/data/
   10. http://www.brainliner.jp/search/showall/1
   11. http://bnci-horizon-2020.eu/database/data-sets
-  12. https://sites.google.com/site/projectbci/
   13. http://archive.ics.uci.edu/ml/datasets/EEG+Database
   14. https://www.physionet.org/physiobank/database/#neuro
   15. http://www.physionet.org/pn6/chbmit/
   16. https://sites.google.com/site/iitrcsepradeep7/resume
-  17. https://github.com/robintibor/high-gamma-dataset
   18. http://memory.psych.upenn.edu/RAM
   19. http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/
   20. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8616018
