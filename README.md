@@ -13,6 +13,9 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   2. [Enterface'06](http://www.enterface.net/results/): Enterface'06 Project 07: EEG(64 Channels) + fNIRS + face video, Includes 16 subjects, where emotions were elicited through selected subset of IAPS dataset.
   3. [Imagined Emotion](http://headit.ucsd.edu/studies/3316f70e-35ff-11e3-a2a9-0050563f2612): 31 subjects, subjects listen to voice recordings that suggest an emotional feeling and ask subjects to imagine an emotional scenario or to recall an experience in which they have felt that emotion before.
   4. [NeuroMarketing](https://drive.google.com/open?id=0B2T1rQUvyyWcSGVVaHZBZzRtTms): 25 subjects, 14 electrodes, Like/Dislike on commercial e-commerce products over 14 categories with 3 images each. Article for the dataset: Analysis of EEG signals and its application to neuromarketing
+  5. [SEED](http://bcmi.sjtu.edu.cn/~seed/seed.html): 15 subjects were shown video clips eliciting positive/negative/neutral emotion and EEG was recorded over 62 channels.
+  6. [SEED-IV](http://bcmi.sjtu.edu.cn/~seed/seed-iv.html): 15 subjects were shown video clips ellicity happy/sad/neutral/fear emotions and EEG was recorded over 62 channels (with eye-tracking) for 3 sessions per subject (24 trials per session).
+  7. [SEED-VIG](http://bcmi.sjtu.edu.cn/~seed/seed-vig.html): Vigilance labels with EEG data in a simulated driving task. 18 electrodes and eye-tracking included.
   
 * **Error-Related Potentials (ErrP)**
   1. [BCI-NER Challenge](https://www.kaggle.com/c/inria-bci-challenge): 26 subjects, 56 EEG Channels for a P300 Speller task, and labeled dataset for the response elicited when P300 decodes a correct or incorrect letter.
@@ -47,7 +50,6 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   2. https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software
   3. https://github.com/pbashivan/EEGLearn/tree/master/Sample%20data 
   4. Section 2: https://arxiv.org/pdf/1611.08024.pdf 
-  5. http://bcmi.sjtu.edu.cn/~seed/ [not responding] 
   6. EEG Databases for Emotion Recognition, NTU 
   7. https://engineuring.wordpress.com/2009/07/08/downloadable-eeg-data/ 
   8. http://www.brainsignals.de/
@@ -66,6 +68,5 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   21. https://arxiv.org/pdf/1805.06427.pdf
   22. http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets
   23. http://studycatalog.org/
-  24. https://github.com/NeuroTechX/awesome-bci#brain-databases
 
   
