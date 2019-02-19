@@ -70,5 +70,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   21. https://arxiv.org/pdf/1805.06427.pdf
   22. http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets
   23. http://studycatalog.org/
+  24. http://predict.cs.unm.edu/
+  25. https://datadryad.org/resource/doi:10.5061/dryad.070jc
 
   
