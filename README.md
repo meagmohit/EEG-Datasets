@@ -73,5 +73,6 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   23. http://studycatalog.org/
   24. http://predict.cs.unm.edu/
   25. https://datadryad.org/resource/doi:10.5061/dryad.070jc
+  26. https://ieee-dataport.org/data-competitions [Requires IEEE Membership]
 
   
