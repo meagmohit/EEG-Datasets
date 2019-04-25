@@ -40,6 +40,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
 
 * **Resting State**
   1. [Resting State EEG Data](https://dataverse.tdl.org/dataverse/txstatecogelectro): 22 subjects, 72 EEG Channels for a resting task of 8 mins with 4 mins of eyes closed and 4 mins of eyes open. [[Article]](https://www.frontiersin.org/articles/10.3389/fnins.2017.00425)
+  2. [EID-M, EID-S](https://drive.google.com/drive/folders/1t6tL434ZOESb06ZvA4Bw1p9chzxzbRbj): 8 subjects in rest state (with eyes closed) recorded from 14 electrodes using EPOC+ for 54s at 128 Hz (7000 samples each). EID-M has three trials and EID-S is a signle trial dataset. The dataset was used to develop a person identification system through brainwaves. [[Article]](https://arxiv.org/pdf/1711.06149.pdf)
   
 * **Music and EEG**
   1. [Music Imagery Information Retrieval](https://github.com/sstober/openmiir): 10 subjects, 64 EEG Channels for a music imagery task of 12 different pieces w/ different meter, length and tempo. [[Article]](https://pdfs.semanticscholar.org/cde4/b1ec89f2c05a41f1143792a890a00e89541a.pdf)
