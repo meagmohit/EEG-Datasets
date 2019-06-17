@@ -53,6 +53,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   1. [MNIST Brain Digits](http://mindbigdata.com/opendb/index.html): EEG data when a digit(0-9) is shown to the subject, recorded 2s for a single subject using Minwave, EPOC, Muse, Insight. Includes over 1.2M samples. 
   2. [Imagenet Brain](http://www.mindbigdata.com/opendb/imagenet.html): A random image is shown (out of 14k images from the Imagenet ILSVRC2013 train dataset) and EEG signals are recorded for 3s for one subject. Includes over 70k samples.
   3. [Working Memory](https://github.com/pbashivan/EEGLearn/tree/master/Sample%20data): Participants briefly observe an array containing multiple English characters SET (500ms) and maintain the information for three seconds. A TEST character is then presented and participants respond by press of a button if TEST charter matches one of the characters in the SET. 15 students, 64 electrodes and 500Hz sampling rate. Only a small subset of data is available publicly. [[Original Paper]](https://www.memphis.edu/acnl/publications/pdfs/ejn2014b.pdf) [[Further Analysis in ICLR]](https://arxiv.org/pdf/1511.06448.pdf)
+  4. [Deep Sleep Slow Osciallation](https://challengedata.ens.fr/challenges/10): 10 seconds of recording starting 10 seconds before the end of a slow oscillation. Data is recorded with a goal to predict whether or not a slow oscillation will be followed by another one in sham condition, i.e. without any stimulation.
 
 * **Clinical EEG**
   1. [TUH EEG Resources](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml): Massive amount of data for (i) Abnormal EEG and (ii) EEG Seizures
@@ -84,6 +85,6 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   24. http://predict.cs.unm.edu/
   25. https://datadryad.org/resource/doi:10.5061/dryad.070jc
   26. https://ieee-dataport.org/data-competitions
-  27. https://challengedata.ens.fr/challenges/10 
+
 
   
