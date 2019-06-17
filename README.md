@@ -22,6 +22,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   5. [SEED](http://bcmi.sjtu.edu.cn/~seed/seed.html): 15 subjects were shown video clips eliciting positive/negative/neutral emotion and EEG was recorded over 62 channels.
   6. [SEED-IV](http://bcmi.sjtu.edu.cn/~seed/seed-iv.html): 15 subjects were shown video clips ellicity happy/sad/neutral/fear emotions and EEG was recorded over 62 channels (with eye-tracking) for 3 sessions per subject (24 trials per session).
   7. [SEED-VIG](http://bcmi.sjtu.edu.cn/~seed/seed-vig.html): Vigilance labels with EEG data in a simulated driving task. 18 electrodes and eye-tracking included.
+  8. [HCI-Tagging](https://mahnob-db.eu/hci-tagging/): Subjetcs were shown video clips (fragments of movies) and they were asked to annotate the emotional state on the scale of valence and arousal. During the whole experiment, audio, video, gaze data and physiological data were recorded simultaneously with accurate synchronisation between sensors.
   
 * **Error-Related Potentials (ErrP)**
   1. [BCI-NER Challenge](https://www.kaggle.com/c/inria-bci-challenge): 26 subjects, 56 EEG Channels for a P300 Speller task, and labeled dataset for the response elicited when P300 decodes a correct or incorrect letter.
@@ -29,6 +30,8 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   2. [Monitoring ErrP in a target selection task](http://bnci-horizon-2020.eu/database/data-sets): 6 subjects with 64 EEG electrodes, watching a cursor move towards a target square, and elicited responses are labeled based on whether the cursor moves in right or wrong direction. [[Dataset Description]](https://lampx.tugraz.at/~bci/database/013-2015/description.pdf)
   
   3. [ErrPs during continuous feedback](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/contErrP_description.pdf): 10 subjects with 28 EEG electrodes, playing a video game to study execution and outcome error. [[Dataset Part-1]](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/Continous_ErrP_dataset_Part1.rar) [[Dataset Part-2]](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/Continous_ErrP_dataset_Part2.rar)
+  
+  4. [HCI-Tagging](https://mahnob-db.eu/hci-tagging/): Subjetcs were shown images or movie fragments with a tag at the bottom of the screen. In some cases, the tag correctly described something about the situation. However, in other cases the tag did not actually apply to the media item. After each item, a participant was asked to press a green button if they agreed with the tag being applicable to the media item, or press a red button if not. During the whole experiment, audio, video, gaze data and physiological data were recorded simultaneously with accurate synchronisation between sensors.
   
 * **Visually Evoked Potentials (VEPs)**
   1. [c-VEP BCI](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/cVEP_dataset.rar): 9 subjects, 32 EEG Channels for a VEP BCI speller (32 characters) task, and labeled dataset for the response elicited for the label associated with the speller. [[Dataset description]](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/cVEP_description.pdf) [[Published article]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0051077)
