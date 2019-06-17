@@ -12,6 +12,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   8. [High-Gamma Dataset](https://github.com/robintibor/high-gamma-dataset): 128-electrode dataset obtained from 14 healthy subjects with roughly 1000 four-second trials of executed movements divided into 13 runs per subject.  The four classes of movements were movements of either the left hand, the right hand, both feet, and rest.
   9. [Left/Right Hand 1D/2D movements](https://sites.google.com/site/projectbci/): 19-electrode data of one subject with various combinations of 1D and 2D hand movements (actual execution). 
   10. [Imagination of Right-hand Thumb Movement](https://archive.ics.uci.edu/ml/datasets/Planning+Relax): In every trial, subjects were asked to rest and rest data was recorded for 5 mins. Further, 5 second epoch data was also recorded when subjects were asked to imagine right hand thumb movement. 5 of such imagined motor movement, and rest state was recorded for each trial. Single subject, 8 electrodes at 256Hz.
+
   
 * **Emotion-Recognition**
   1. [DEAP](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/): Includes 32 subjects, each watchine 1-min long excerpts of music-videos, rated by users in terms of arousal/valence/like-dislike/dominanace/famaliarity, and frontal face recording of 22/32 subejcts.
@@ -49,6 +50,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
 * **Eye-blinks/movements**
   1. [Involuntary Eye Movements during Face Perception](http://www2.hu-berlin.de/eyetracking-eeg/testdata.html): Dataset 1, 26 electrodes, 500Hz sampling rate, and 120 trials. Eye movements and pupil diameter record, EEG and EOG data is present when subject is presented a happy/sad/angry face on the screen. [[Article]](http://www.jneurosci.org/content/suppl/2009/09/30/29.39.12321.DC1/Supplemental_Material.pdf) [P.S: Dataset available on request only]
   2. [Voluntary-Involuntary Eye-Blinks](https://drive.google.com/file/d/0By5iwWd39NblS2tRWmVTdmRzZUU/view?usp=sharing): Voluntary eye-blinks (subject were asked to blink voluntarily within 1s of audio stimulus) and involuntary eye-blinks (natural) was recorded for 20 subjects on 14 electrodes using g.tec. For each subject, 3 sessions with 20 trials each are present in .mat format. [[Article]](https://www.sciencedirect.com/science/article/pii/S0925231216001569)
+  3. [EEG-eye state](https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State): Eye-state labeled data for one continuous recording of EEG of 117 seconds with eye-closed and eye-open labels. The dataset was recorded from Emotiv headset.
   
 * **Miscellaneous**
   1. [MNIST Brain Digits](http://mindbigdata.com/opendb/index.html): EEG data when a digit(0-9) is shown to the subject, recorded 2s for a single subject using Minwave, EPOC, Muse, Insight. Includes over 1.2M samples. 
