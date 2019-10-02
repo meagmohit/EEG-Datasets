@@ -42,6 +42,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   
 * **Event Related Potentials [ERPs]**
   1. [Pattern Visual Evoked Potentials](https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software): Dataset#5, 2 subjects for checkboard light pattern (oddball paradigm) recorded at O1 position. 
+  2. [Face vs. House Discrimination](https://purl.stanford.edu/xd109qh3109): 7 Epileptic subjects were presented with 50  grayscale stimulations each for Face and House pictures. For each subject, total 3 experimental runs were conducted resulting in 300 stimulations. 
 
 * **Resting State**
   1. [Resting State EEG Data](https://dataverse.tdl.org/dataverse/txstatecogelectro): 22 subjects, 72 EEG Channels for a resting task of 8 mins with 4 mins of eyes closed and 4 mins of eyes open. [[Article]](https://www.frontiersin.org/articles/10.3389/fnins.2017.00425)
