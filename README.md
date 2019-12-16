@@ -45,6 +45,15 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
 * **Event Related Potentials [ERPs]**
   1. [Pattern Visual Evoked Potentials](https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software): Dataset#5, 2 subjects for checkboard light pattern (oddball paradigm) recorded at O1 position. 
   2. [Face vs. House Discrimination](https://purl.stanford.edu/xd109qh3109): 7 Epileptic subjects were presented with 50  grayscale stimulations each for Face and House pictures. For each subject, total 3 experimental runs were conducted resulting in 300 stimulations. 
+  3. [Target Versus Non-Target](https://zenodo.org/record/2649069): 25 subjects testing Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm [publication](https://hal.archives-ouvertes.fr/hal-02126068). Dataset id: bi2012a.
+  4. [Target Versus Non-Target](https://zenodo.org/record/2669187): 24 subjects playing Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm. 16-electrodes, wet. Up to 8 sessions per subject. Two experiemental conditions: with and without adaptive calibration using Riemannian geometry. [publication](https://hal.archives-ouvertes.fr/hal-02103098). Dataset id: bi2012a.
+  5. [Target Versus Non-Target](https://zenodo.org/record/2669187): 71 subjects playing Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm with adapative Riemannian Geometry (no-calibration). 16-electrodes, dry. [publication](https://hal.archives-ouvertes.fr/hal-02171575). Dataset id: bi2014a.
+  6. [Target Versus Non-Target](https://zenodo.org/record/3267302): 38 subjects playing a multiplayer and collaborative version of Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm with adapative Riemannian Geometry (no-calibration). 32-electrodes per subject, wet, 2 subjects during each session. [publication](https://hal.archives-ouvertes.fr/hal-02173958). Dataset id: bi2014b.
+  7. [Target Versus Non-Target](https://zenodo.org/record/3266930): 50 subjects playing Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm with adapative Riemannian Geometry (no-calibration). 32-electrodes, wet. 3 sessions per subjects with modulation of flash duration. [publication](https://hal.archives-ouvertes.fr/hal-02172347). Dataset id: bi2015a.
+  8. [Target Versus Non-Target](https://zenodo.org/record/3268762): 44 subjects playing a multiplayer (cooperation and competition) version of Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm with adapative Riemannian Geometry (no-calibration). 32-electrodes per subject, wet, 2 subjects for each session. [publication](https://hal.archives-ouvertes.fr/hal-02173913). Dataset id: bi2015b.
+
+
+
 
 * **Resting State**
   1. [Resting State EEG Data](https://dataverse.tdl.org/dataverse/txstatecogelectro): 22 subjects, 72 EEG Channels for a resting task of 8 mins with 4 mins of eyes closed and 4 mins of eyes open. [[Article]](https://www.frontiersin.org/articles/10.3389/fnins.2017.00425)
