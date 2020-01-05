@@ -98,6 +98,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   25. https://datadryad.org/resource/doi:10.5061/dryad.070jc
   26. https://ieee-dataport.org/data-competitions
   27. The Australian EEG Database https://aed.newcastle.edu.au/AED/login.jsp [contact: aed@newcastle.edu.au] 
+  28. ERP Core Dataset (Coming Soon) https://erpinfo.org/erp-core
   
 
 
