@@ -23,7 +23,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   6. [SEED-IV](http://bcmi.sjtu.edu.cn/~seed/seed-iv.html): 15 subjects were shown video clips ellicity happy/sad/neutral/fear emotions and EEG was recorded over 62 channels (with eye-tracking) for 3 sessions per subject (24 trials per session).
   7. [SEED-VIG](http://bcmi.sjtu.edu.cn/~seed/seed-vig.html): Vigilance labels with EEG data in a simulated driving task. 18 electrodes and eye-tracking included.
   8. [HCI-Tagging](https://mahnob-db.eu/hci-tagging/): Subjetcs were shown video clips (fragments of movies) and they were asked to annotate the emotional state on the scale of valence and arousal. During the whole experiment, audio, video, gaze data and physiological data were recorded simultaneously with accurate synchronisation between sensors.
-  9. [REGULATION OF AROUSAL](https://ieee-dataport.org/open-access/regulation-arousal-online-neurofeedback-improves-human-performance-demanding-sensory): REGULATION OF AROUSAL VIA ONLINE NEUROFEEDBACK IMPROVES HUMAN PERFORMANCE IN A DEMANDING SENSORY-MOTOR TASK (EEG/ERP, ECG and Eye-tracker data).
+  9. [Regulation of Arousal](https://ieee-dataport.org/open-access/regulation-arousal-online-neurofeedback-improves-human-performance-demanding-sensory): 18 subjects going through an online flight simulator study with three different audio-feedback silence, sham and BCI. [[Article]](https://www.pnas.org/content/116/13/6482)
   
   
 * **Error-Related Potentials (ErrP)**
@@ -51,8 +51,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   6. [Target Versus Non-Target](https://zenodo.org/record/3267302): 38 subjects playing a multiplayer and collaborative version of Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm with adapative Riemannian Geometry (no-calibration). 32-electrodes per subject, wet, 2 subjects during each session. [publication](https://hal.archives-ouvertes.fr/hal-02173958), [code](https://github.com/plcrodrigues/py.BI.EEG.2014b-GIPSA). Dataset id: bi2014b.
   7. [Target Versus Non-Target](https://zenodo.org/record/3266930): 50 subjects playing Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm with adapative Riemannian Geometry (no-calibration). 32-electrodes, wet. 3 sessions per subjects with modulation of flash duration. [publication](https://hal.archives-ouvertes.fr/hal-02172347), [code](https://github.com/plcrodrigues/py.BI.EEG.2015a-GIPSA). Dataset id: bi2015a.
   8. [Target Versus Non-Target](https://zenodo.org/record/3268762): 44 subjects playing a multiplayer (cooperation and competition) version of Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm with adapative Riemannian Geometry (no-calibration). 32-electrodes per subject, wet, 2 subjects for each session. [publication](https://hal.archives-ouvertes.fr/hal-02173913), [code](https://github.com/plcrodrigues/py.BI.EEG.2015b-GIPSA). Dataset id: bi2015b.
-
-
+  9. [Impedance Data](https://drive.google.com/drive/folders/0B3jfvN2T6iLMLWJMMVJMSXBqajg): 12 subjects for P300 task (Oddball paradigm) with 20% of rare stimuli. In total, there were 128 target stimuli and 512 standard stimuli. The dataset was collected in a way such that one recording contains different impedances in electrodes. [[Article]](https://static1.squarespace.com/static/5abefa62d274cb16de90e935/t/5ac6962a8a922d0b8b8be6a1/1522964012664/Kappenman+2010+Psychophys+Impedance.pdf)
 
 
 * **Resting State**
@@ -95,7 +94,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   11. http://bnci-horizon-2020.eu/database/data-sets
   13. http://archive.ics.uci.edu/ml/datasets/EEG+Database
   14. https://www.physionet.org/physiobank/database/#neuro
-  15. http://www.physionet.org/pn6/chbmit/
+  15. ERP Core Dataset (Coming Soon) https://erpinfo.org/erp-core
   16. https://sites.google.com/site/iitrcsepradeep7/resume
   18. http://memory.psych.upenn.edu/RAM
   19. http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/
@@ -107,6 +106,9 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   25. https://datadryad.org/resource/doi:10.5061/dryad.070jc
   26. https://ieee-dataport.org/data-competitions
   27. The Australian EEG Database https://aed.newcastle.edu.au/AED/login.jsp [contact: aed@newcastle.edu.au] 
+  28. The KARA ONE Database: http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html
+  29. Link is given in the paper http://suendermann.com/su/pdf/aihls2013.pdf
+ 
   
 
 
