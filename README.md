@@ -87,7 +87,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   11. http://bnci-horizon-2020.eu/database/data-sets
   13. http://archive.ics.uci.edu/ml/datasets/EEG+Database
   14. https://www.physionet.org/physiobank/database/#neuro
-  15. http://www.physionet.org/pn6/chbmit/
+  15. ERP Core Dataset (Coming Soon) https://erpinfo.org/erp-core
   16. https://sites.google.com/site/iitrcsepradeep7/resume
   18. http://memory.psych.upenn.edu/RAM
   19. http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/
@@ -99,7 +99,9 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   25. https://datadryad.org/resource/doi:10.5061/dryad.070jc
   26. https://ieee-dataport.org/data-competitions
   27. The Australian EEG Database https://aed.newcastle.edu.au/AED/login.jsp [contact: aed@newcastle.edu.au] 
-  28. ERP Core Dataset (Coming Soon) https://erpinfo.org/erp-core
+  28. The KARA ONE Database: http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html
+  29. Link is given in the paper http://suendermann.com/su/pdf/aihls2013.pdf
+ 
   
 
 
