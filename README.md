@@ -108,6 +108,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   27. The Australian EEG Database https://aed.newcastle.edu.au/AED/login.jsp [contact: aed@newcastle.edu.au] 
   28. The KARA ONE Database: http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html
   29. Link is given in the paper http://suendermann.com/su/pdf/aihls2013.pdf
+  30. Berkley Kaggle Dataset: https://www.kaggle.com/berkeley-biosense/synchronized-brainwave-dataset
  
   
 
