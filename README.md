@@ -109,6 +109,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   28. The KARA ONE Database: http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html
   29. Link is given in the paper http://suendermann.com/su/pdf/aihls2013.pdf
   30. Berkley Kaggle Dataset: https://www.kaggle.com/berkeley-biosense/synchronized-brainwave-dataset
+  31. Nature driving: https://www.nature.com/articles/s41597-019-0027-4
  
   
 
