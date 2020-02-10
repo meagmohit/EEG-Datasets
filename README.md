@@ -71,6 +71,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   3. [EEG-eye state](https://archive.ics.uci.edu/ml/datasets/EEG+Eye+State): Eye-state labeled data for one continuous recording of EEG of 117 seconds with eye-closed and eye-open labels. The dataset was recorded from Emotiv headset.
   4. [EEG-IO](http://gnan.ece.gatech.edu/eeg-eyeblinks/): Voluntary single eye-blinks (external stimulation was provided) and EEG was recorded for frontal electrodes (Fp1, Fp2) for 20 subjects using OpenBCI Device and BIOPAC Cap100C. One session was conducted including around 25 blinks per subject. Manual annotation was done using video feed. [[Article]](https://proceedings.allerton.csl.illinois.edu/media/files/0174.pdf)
   5. [EEG-VV, EEG-VR](http://gnan.ece.gatech.edu/eeg-eyeblinks/): Involuntary eye-blinks (natural blinks) and EEG was recorded for frontal electrodes (Fp1, Fp2) for 12 subjects using OpenBCI Device and BIOPAC Cap100C. Subjects performed two activities - watching a video (EEG-VV) and reading an article (EEG-VR). Manual annotation was done using video feed. [[Article]](https://proceedings.allerton.csl.illinois.edu/media/files/0174.pdf)
+  6. [Eye State Prediction](http://suendermann.com/corpus/EEG_Eyes.arff.gz): 117 seconds recording of a single subject with labeled eye state data (open and closed) recorded using EPOC headset (14 electrodes). [[Article]](http://suendermann.com/su/pdf/aihls2013.pdf)
   
 * **Miscellaneous**
   1. [MNIST Brain Digits](http://mindbigdata.com/opendb/index.html): EEG data when a digit(0-9) is shown to the subject, recorded 2s for a single subject using Minwave, EPOC, Muse, Insight. Includes over 1.2M samples. 
@@ -111,7 +112,6 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   26. https://ieee-dataport.org/data-competitions
   27. The Australian EEG Database https://aed.newcastle.edu.au/AED/login.jsp [contact: aed@newcastle.edu.au] 
   28. The KARA ONE Database: http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html
-  29. Link is given in the paper http://suendermann.com/su/pdf/aihls2013.pdf
 
  
   
