@@ -55,6 +55,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   8. [Target Versus Non-Target](https://zenodo.org/record/3268762): 44 subjects playing a multiplayer (cooperation and competition) version of Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm with adapative Riemannian Geometry (no-calibration). 32-electrodes per subject, wet, 2 subjects for each session. [publication](https://hal.archives-ouvertes.fr/hal-02173913), [code](https://github.com/plcrodrigues/py.BI.EEG.2015b-GIPSA). Dataset id: bi2015b.
   9. [Impedance Data](https://drive.google.com/drive/folders/0B3jfvN2T6iLMLWJMMVJMSXBqajg): 12 subjects for P300 task (Oddball paradigm) with 20% of rare stimuli. In total, there were 128 target stimuli and 512 standard stimuli. The dataset was collected in a way such that one recording contains different impedances in electrodes. [[Article]](https://static1.squarespace.com/static/5abefa62d274cb16de90e935/t/5ac6962a8a922d0b8b8be6a1/1522964012664/Kappenman+2010+Psychophys+Impedance.pdf)
   10. [Sustained-Attention Driving](https://figshare.com/articles/Multi-channel_EEG_recordings_during_a_sustained-attention_driving_task/6427334/5): 27 subjects for sustained-attention driving in a VR settin for monitoring event-related potentials. Each subject participated in two 90 min sessions (w/o and with kinesthetic feedback) and recorded with 32-channels and 500Hz. [[Article]](https://www.nature.com/articles/s41597-019-0027-4#Sec12) [[Pre-processed dataset]](https://figshare.com/articles/Multi-channel_EEG_recordings_during_a_sustained-attention_driving_task_preprocessed_dataset_/7666055/3)
+  11. [Dryad-Speech](https://datadryad.org/stash/dataset/doi:10.5061/dryad.070jc): 5 different experiments for studying natural speech comprehension through a variety of tasks including audio, visual stimulus and imagined speech. (i) Audio-book version of a popular mid-20th century American work of fiction - 19 subjects, (ii) presentation of the same trials in the same order, but with each of the 28 speech segments played in reverse, (iii) N400 experiment: subjects read 300 sentences presented  with the rest of the sentence and half which ended with an incongruent word - , (iv) cocktail party experiment: 33 subjects undertook 30 trials, each of 60 s in length, where they were presented with 2 classic works of fiction: one to the left ear, and the other to the right ear. Subjects were divided into 2 groups of 17 and 16 (+1 excluded subject) with each group instructed to attend to the story in either the left or right ear throughout the entire 30 trials, (v) multisensory experiment:  stimuli were drawn from a set of videos that consisted of a male speaking American English in a conversational-like manner. [[Main Article]](https://www.sciencedirect.com/science/article/pii/S0960982218301465) [[Supplemntary Article]](https://www.ncbi.nlm.nih.gov/pubmed/26412129)
   
 
 
@@ -83,6 +84,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
 
 * **Clinical EEG**
   1. [TUH EEG Resources](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml): Massive amount of data for (i) Abnormal EEG and (ii) EEG Seizures
+  2. [Predict-UNM](http://predict.cs.unm.edu/): A large repository of clinical EEG datasets
   
   
     
@@ -108,8 +110,6 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   21. https://arxiv.org/pdf/1805.06427.pdf
   22. http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets
   23. http://studycatalog.org/
-  24. http://predict.cs.unm.edu/
-  25. https://datadryad.org/resource/doi:10.5061/dryad.070jc
   26. https://ieee-dataport.org/data-competitions
   27. The Australian EEG Database https://aed.newcastle.edu.au/AED/login.jsp [contact: aed@newcastle.edu.au] 
 
