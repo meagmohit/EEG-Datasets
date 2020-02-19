@@ -113,6 +113,8 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   26. https://ieee-dataport.org/data-competitions
   27. The Australian EEG Database https://aed.newcastle.edu.au/AED/login.jsp [contact: aed@newcastle.edu.au] 
   28. Links for more datasets: http://www.fieldtriptoolbox.org/faq/open_data/ (might include some duplicates)
+  29. https://figshare.com/articles/EEG_dataset/8091242 a paper with the same title is also there
+  30. [Search Enginer: Might include a lot of duplicates] https://app.dimensions.ai/discover/data_set?search_text=eeg%20brain-computer%20interfaces&search_type=kws&search_field=full_search
 
  
   
