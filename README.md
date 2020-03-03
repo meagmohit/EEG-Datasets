@@ -117,6 +117,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   30. [Search Enginer: Might include a lot of duplicates] https://app.dimensions.ai/discover/data_set?search_text=eeg%20brain-computer%20interfaces&search_type=kws&search_field=full_search
   31. BIDS dataset: https://github.com/bids-standard/bids-examples https://osf.io/cj2dr/ https://zenodo.org/record/2536267 https://osf.io/dvmrb/
   32. Another platform for Neuro datasets: https://openneuro.org/
+  33. Brain Invaders data: https://arxiv.org/abs/1905.05182
 
  
   
