@@ -118,6 +118,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   31. BIDS dataset: https://github.com/bids-standard/bids-examples https://osf.io/cj2dr/ https://zenodo.org/record/2536267 https://osf.io/dvmrb/
   32. Another platform for Neuro datasets: https://openneuro.org/
   33. Brain Invaders data: https://arxiv.org/abs/1905.05182
+  34. User-security based public datasets in section 4.2 of the paper, "A Survey on Brain Biometrics"
 
  
   
