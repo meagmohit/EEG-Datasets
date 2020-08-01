@@ -14,7 +14,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   10. [Imagination of Right-hand Thumb Movement](https://archive.ics.uci.edu/ml/datasets/Planning+Relax): In every trial, subjects were asked to rest and rest data was recorded for 5 mins. Further, 5 second epoch data was also recorded when subjects were asked to imagine right hand thumb movement. 5 of such imagined motor movement, and rest state was recorded for each trial. Single subject, 8 electrodes at 256Hz.
   11. [Mental-Imagery Dataset](https://figshare.com/collections/A_large_electroencephalographic_motor_imagery_dataset_for_electroencephalographic_brain_computer_interfaces/3917698): 13 participants with over 60,000 examples of motor imageries in 4 interaction paradigms recorded with 38 channels medical-grade EEG system. It contains data for upto 6 mental imageries primarily for the motor moements. [[Article]](https://www.nature.com/articles/sdata2018211#ref-CR57)
 
-
+1
   
 * **Emotion-Recognition**
   1. [DEAP](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/): Includes 32 subjects, each watchine 1-min long excerpts of music-videos, rated by users in terms of arousal/valence/like-dislike/dominanace/famaliarity, and frontal face recording of 22/32 subejcts.
