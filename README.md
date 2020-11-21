@@ -127,6 +127,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   33. Brain Invaders data: https://arxiv.org/abs/1905.05182
   34. User-security based public datasets in section 4.2 of the paper, "A Survey on Brain Biometrics"
   35. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493744/ For Motor Imagery
+  36. https://thinquanaut.wordpress.com/open-data-sources/
 
  
   
