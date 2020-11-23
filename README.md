@@ -129,8 +129,25 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   35. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493744/ For Motor Imagery
   36. https://thinquanaut.wordpress.com/open-data-sources/
   37. https://mimic.physionet.org/
-
+  38. Data: https://drive.google.com/drive/folders/0B3jfvN2T6iLMLWJMMVJMSXBqajg Paper: https://static1.squarespace.com/static/5abefa62d274cb16de90e935/t/5ac6962a8a922d0b8b8be6a1/1522964012664/Kappenman+2010+Psychophys+Impedance.pdf
+  39. RAM dataset: http://memory.psych.upenn.edu/RAM
+  40. https://osf.io/bndjg/ Article: https://www.ncbi.nlm.nih.gov/pubmed/25450163
+  41. https://github.com/voytekresearch/OpenData
+  
  
+  ### Resources to search for database [Unfiltered]
+  1. https://dataverse.harvard.edu/dataverse/harvard?q=EEG&types=dataverses%3Adatasets%3Afiles&sort=score&order=desc&page=22
+  2. https://www.quora.com/How-can-I-get-free-data-sets-for-EEGs
+  3. https://www.physionet.org/physiobank/database/#neuro
+  4. https://www.researchgate.net/post/What_EEG-data_repositories_do_you_know_or_can_you_recommend_for_sharing_data
+  5. https://www.physionet.org/
+  6. https://alpha.physionet.org/about/database/
+  7. http://www.mamem.eu/mamem-makes-publicly-available-a-challenging-eeg-dataset-based-on-a-ssvep-based-experimantal-protocol/
+  8. https://figshare.com/articles/MAMEM_Phase_I_Dataset_-_A_dataset_for_multimodal_human-computer_interaction_using_biosignals_and_eye_tracking_information/5231053
+  9. https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_I_256_channels_11_subjects_5_frequencies_/2068677
+  10. https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_II_256_channels_11_subjects_5_frequencies_presented_simultaneously_/3153409
+  11. https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_III_14_channels_11_subjects_5_frequencies_presented_simultaneously_/3413851
+  
   
 
 
