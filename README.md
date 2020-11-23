@@ -133,6 +133,9 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   39. RAM dataset: http://memory.psych.upenn.edu/RAM
   40. https://osf.io/bndjg/ Article: https://www.ncbi.nlm.nih.gov/pubmed/25450163
   41. https://github.com/voytekresearch/OpenData
+  42. contact for data: https://www.krigolsonteaching.com/uploads/4/3/8/4/43848243/2002_holroydcoles.pdf
+  43. contact for data: https://medicalxpress.com/news/2017-06-brain-preference-based-decisions.html
+  44. STRUM: A new Dataset for Neuroergonomics Research. Strum dataset is not available on headit.ucsd .. contact authors
   
  
   ### Resources to search for database [Unfiltered]
@@ -147,6 +150,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   9. https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_I_256_channels_11_subjects_5_frequencies_/2068677
   10. https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_II_256_channels_11_subjects_5_frequencies_presented_simultaneously_/3153409
   11. https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_III_14_channels_11_subjects_5_frequencies_presented_simultaneously_/3413851
+ 
   
   
 
