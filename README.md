@@ -138,6 +138,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   43. contact for data: https://medicalxpress.com/news/2017-06-brain-preference-based-decisions.html
   44. STRUM: A new Dataset for Neuroergonomics Research. Strum dataset is not available on headit.ucsd .. contact authors
   45. https://paperswithcode.com/search?q=eeg+dataset
+  46. https://github.com/meagmohit/EEG-Datasets.git
   
  
   ### Resources to search for database [Unfiltered]
