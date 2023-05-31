@@ -152,7 +152,8 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   9. https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_I_256_channels_11_subjects_5_frequencies_/2068677
   10. https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_II_256_channels_11_subjects_5_frequencies_presented_simultaneously_/3153409
   11. https://figshare.com/articles/MAMEM_EEG_SSVEP_Dataset_III_14_channels_11_subjects_5_frequencies_presented_simultaneously_/3413851
- 
+  12. https://NEMAR.org about 200 BIDS formated MEEG experiments
+
   
   
 
