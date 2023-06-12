@@ -130,7 +130,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   35. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493744/ For Motor Imagery
   36. https://thinquanaut.wordpress.com/open-data-sources/
   37. https://mimic.physionet.org/
-  38. Data: https://drive.google.com/drive/folders/0B3jfvN2T6iLMLWJMMVJMSXBqajg Paper: https://static1.squarespace.com/static/5abefa62d274cb16de90e935/t/5ac6962a8a922d0b8b8be6a1/1522964012664/Kappenman+2010+Psychophys+Impedance.pdf
+  38. Data: https://drive.google.com/drive/folders/0B3jfvN2T6iLMLWJMMVJMSXBqajg?resourcekey=0-XLt38WPykRHAOx6P449ZYw&usp=sharing  Paper: https://static1.squarespace.com/static/5abefa62d274cb16de90e935/t/5ac6962a8a922d0b8b8be6a1/1522964012664/Kappenman+2010+Psychophys+Impedance.pdf
   39. RAM dataset: http://memory.psych.upenn.edu/RAM
   40. https://osf.io/bndjg/ Article: https://www.ncbi.nlm.nih.gov/pubmed/25450163
   41. https://github.com/voytekresearch/OpenData
