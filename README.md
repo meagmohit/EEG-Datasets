@@ -2,14 +2,14 @@
 A list of all public EEG-datasets. This list of EEG-resources is not exhaustive. If you find something new, or have explored any unfiltered link in depth, please update the repository.
 
 * **Motor-Imagery**
-  1. [Left/Right Hand MI](http://gigadb.org/dataset/100295):  Includes 52 subjects (38 validated subjects with discriminative features), results of physiological and psychological questionnares, EMG Datasets, location of 3D EEG electrodes, and EEGs for non-task related states
+  1. [Left/Right Hand MI](http://gigadb.org/dataset/100295):  Includes 52 subjects (38 validated subjects with discriminative features), results of physiological and psychological questionnaires, EMG Datasets, location of 3D EEG electrodes, and EEGs for non-task related states
   2. [Motor Movement/Imagery Dataset](https://www.physionet.org/physiobank/database/eegmmidb/): Includes 109 volunteers, 64 electrodes, 2 baseline tasks (eye-open and eye-closed), motor movement, and motor imagery (both fists or both feet)
   3. [Grasp and Lift EEG Challenge](https://www.kaggle.com/c/grasp-and-lift-eeg-detection/data): 12 subjects, 32channels@500Hz, for 6 grasp and lift  events, namely a). HandStart b). FirstDigitTouch c). BothStartLoadPhase d). LiftOff e). Replace  f). BothReleased
-  4. [The largest SCP data of Motor-Imagery](https://doi.org/10.6084/m9.figshare.c.3917698): The dataset contains 60 hours of EEG BCI recordings across 75 recording sessions of 13 participants, 60,000 mental imageries, and 4 BCI interaction paradigms, with multiple recording sessions and paradigms of the same individuals. BCI interactions involving up to 6 mental imagery states are considered. [[Article]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190745/pdf/sdata2018211.pdf)
-  5. [BCI Competition IV-1](http://www.bbci.de/competition/iv/#dataset1): 64 EEG channels at 1000Hz sampling rate for 2 classes of left hand, right hand, foot (+ idle state) for 7 subjects. Evaluation data is continuous EEG which contains also periods of idle state.
-  6. [BCI Competition IV-2a](http://www.bbci.de/competition/iv/#dataset2a): 22-electrode EEG motor-imagery dataset,  with 9 subjects and 2 sessions, each with 288 four-second trials of imagined movements per subject. Includes movements of the left hand,the right hand, the feet and the tongue. [[Dataset Description]](http://www.bbci.de/competition/iv/desc_2a.pdf)
-  7. [BCI Competition IV-2b](http://www.bbci.de/competition/iv/#dataset2b): 3-electrode EEG motor-imagery dataset with 9 subjects and 5 sessions of imagined movements of the left or the right hand, the latest 3 sessions include online feedback. [[Dataset Description]](http://www.bbci.de/competition/iv/desc_2b.pdf)
-  8. [High-Gamma Dataset](https://github.com/robintibor/high-gamma-dataset): 128-electrode dataset obtained from 14 healthy subjects with roughly 1000 four-second trials of executed movements divided into 13 runs per subject.  The four classes of movements were movements of either the left hand, the right hand, both feet, and rest.
+  4. [The largest SCP data of Motor-Imagery](https://doi.org/10.6084/m9.figshare.c.3917698): The dataset contains 60 hours of EEG BCI recordings across 75 recording sessions of 13 participants, 60,000 mental imagers, and 4 BCI interaction paradigms, with multiple recording sessions and paradigms of the same individuals. BCI interactions involving up to 6 mental imagery states are considered. [[Article]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6190745/pdf/sdata2018211.pdf)
+  5. [BCI Competition IV-1](https://www.bZbci.de/competition/iv/desc_1.html): 64 EEG channels at 1000Hz sampling rate for 2 classes of left hand, right hand, foot (+ idle state) for 7 subjects. Evaluation data is continuous EEG which contains also periods of idle state.
+  6. [BCI Competition IV-2a](https://www.bbci.de/competition/iv/): 22-electrode EEG motor-imagery dataset,  with 9 subjects and 2 sessions, each with 288 four-second trials of imagined movements per subject. Includes movements of the left hand,the right hand, the feet and the tongue. [[Dataset Description]](https://www.bbci.de/competition/iv/desc_2a.pdf)
+  7. [BCI Competition IV-2b](https://www.bbci.de/competition/iv/): 3-electrode EEG motor-imagery dataset with 9 subjects and 5 sessions of imagined movements of the left or the right hand, the latest 3 sessions include online feedback. [[Dataset Description]](http://www.bbci.de/competition/iv/desc_2b.pdf)
+  8. [High-Gamma Dataset](https://github.com/robintibor/high-gamma-dataset): 128-electrode dataset obtained from 14 healthy subjects with roughly 1000 four-second trials of executed movements divided into 13 runs per subject.  The four classes of movements were movements of either the left hand, the right hand, both feet, and rest. 
   9. [Left/Right Hand 1D/2D movements](https://sites.google.com/site/projectbci/): 19-electrode data of one subject with various combinations of 1D and 2D hand movements (actual execution). 
   10. [Imagination of Right-hand Thumb Movement](https://archive.ics.uci.edu/ml/datasets/Planning+Relax): In every trial, subjects were asked to rest and rest data was recorded for 5 mins. Further, 5 second epoch data was also recorded when subjects were asked to imagine right hand thumb movement. 5 of such imagined motor movement, and rest state was recorded for each trial. Single subject, 8 electrodes at 256Hz.
   11. [Mental-Imagery Dataset](https://figshare.com/collections/A_large_electroencephalographic_motor_imagery_dataset_for_electroencephalographic_brain_computer_interfaces/3917698): 13 participants with over 60,000 examples of motor imageries in 4 interaction paradigms recorded with 38 channels medical-grade EEG system. It contains data for upto 6 mental imageries primarily for the motor moements. [[Article]](https://www.nature.com/articles/sdata2018211#ref-CR57)
@@ -24,8 +24,9 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   5. [SEED](http://bcmi.sjtu.edu.cn/~seed/seed.html): 15 subjects were shown video clips eliciting positive/negative/neutral emotion and EEG was recorded over 62 channels.
   6. [SEED-IV](http://bcmi.sjtu.edu.cn/~seed/seed-iv.html): 15 subjects were shown video clips ellicity happy/sad/neutral/fear emotions and EEG was recorded over 62 channels (with eye-tracking) for 3 sessions per subject (24 trials per session).
   7. [SEED-VIG](http://bcmi.sjtu.edu.cn/~seed/seed-vig.html): Vigilance labels with EEG data in a simulated driving task. 18 electrodes and eye-tracking included.
-  8. [HCI-Tagging](https://mahnob-db.eu/hci-tagging/): Subjetcs were shown video clips (fragments of movies) and they were asked to annotate the emotional state on the scale of valence and arousal. During the whole experiment, audio, video, gaze data and physiological data were recorded simultaneously with accurate synchronisation between sensors.
-  9. [Regulation of Arousal](https://ieee-dataport.org/open-access/regulation-arousal-online-neurofeedback-improves-human-performance-demanding-sensory): 18 subjects going through an online flight simulator study with three different audio-feedback silence, sham and BCI. [[Article]](https://www.pnas.org/content/116/13/6482)
+  8. [SEED-V](https://bcmi.sjtu.edu.cn/home/seed/seed-v.html): 20 subjects were shown video clips in happy/sad/neutral/fear/disgust emotions and EEG was recorded over 62 channels (with eye-tracking), and effectiveness of each stimulus was self-assessed by participants on a 0-5 scale, depending on the emotional response elicited.
+  9. [HCI-Tagging](https://mahnob-db.eu/hci-tagging/): Subjetcs were shown video clips (fragments of movies) and they were asked to annotate the emotional state on the scale of valence and arousal. During the whole experiment, audio, video, gaze data and physiological data were recorded simultaneously with accurate synchronisation between sensors.
+  10. [Regulation of Arousal](https://ieee-dataport.org/open-access/regulation-arousal-online-neurofeedback-improves-human-performance-demanding-sensory): 18 subjects going through an online flight simulator study with three different audio-feedback silence, sham and BCI. [[Article]](https://www.pnas.org/content/116/13/6482)
   
   
 * **Error-Related Potentials (ErrP)**
@@ -42,7 +43,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   
    2. [c-VEP BCI with dry electrodes](https://www-ti.informatik.uni-tuebingen.de/~spueler/eeg_data/dry_cVEP_dataset.rar): 9 subjects, 15 dry-EEG Channels for a VEP BCI speller (32 characters) task, and labeled dataset for the response elicited for the label associated with the speller. [[Article]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172400)
    
-   3. [SSVEP - Visual Search/Discrimination and Handshake](https://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals#): Includes 3 different tests, (i) Five Box visual test: attnded and unattended disc and square based stimuli, (ii) visual search within natural images: search of a yellow dot stimuli in B&W natural images, (iii) hand shake test: showing left/right hand closed/open images. 30 subjects, 14 electrodes. [[Article 1]](http://www.journalijar.com/uploads/154_IJAR-13703.pdf) [[Article 2]](https://www.hindawi.com/journals/ddns/2018/2143873/) [[More Dataset: Dataset 2]](http://www2.hu-berlin.de/eyetracking-eeg/testdata.html)
+   3. [SSVEP - Visual Search/Discrimination and Handshake](https://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals#): Includes 3 different tests, (i) Five Box visual test: attnded and unattended disc and square based stimuli, (ii) visual search within natural images: search of a yellow dot stimuli in B&W natural images, (iii) handshake test: showing left/right hand closed/open images. 30 subjects, 14 electrodes. [[Article 1]](http://www.journalijar.com/uploads/154_IJAR-13703.pdf) [[Article 2]](https://www.hindawi.com/journals/ddns/2018/2143873/) [[More Dataset: Dataset 2]](http://www2.hu-berlin.de/eyetracking-eeg/testdata.html)
    
    4. [Synchronized Brainwave Dataset](https://www.kaggle.com/berkeley-biosense/synchronized-brainwave-dataset): 15 people were presented with 2 different video stimulus including blinks, relaxation, mental mathematics, counting color boxes, and watching superbowl ads. [[Stimulus 1]](https://www.youtube.com/watch?v=zkGoPdpRvaU&feature=youtu.be) [[Stimulus 2]](https://www.youtube.com/watch?v=sxqlOoBBjvc&feature=youtu.be)
   
@@ -56,7 +57,7 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   7. [Target Versus Non-Target](https://zenodo.org/record/3266930): 50 subjects playing Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm with adapative Riemannian Geometry (no-calibration). 32-electrodes, wet. 3 sessions per subjects with modulation of flash duration. [publication](https://hal.archives-ouvertes.fr/hal-02172347), [code](https://github.com/plcrodrigues/py.BI.EEG.2015a-GIPSA). Dataset id: bi2015a.
   8. [Target Versus Non-Target](https://zenodo.org/record/3268762): 44 subjects playing a multiplayer (cooperation and competition) version of Brain Invaders, a visual P300 Brain-Computer Interface using oddball paradigm with adapative Riemannian Geometry (no-calibration). 32-electrodes per subject, wet, 2 subjects for each session. [publication](https://hal.archives-ouvertes.fr/hal-02173913), [code](https://github.com/plcrodrigues/py.BI.EEG.2015b-GIPSA). Dataset id: bi2015b.
   9. [Impedance Data](https://erpinfo.org/impedance): 12 subjects for P300 task (Oddball paradigm) with 20% of rare stimuli. In total, there were 128 target stimuli and 512 standard stimuli. The dataset was collected in a way such that one recording contains different impedances in electrodes. [[Article]](https://static1.squarespace.com/static/5abefa62d274cb16de90e935/t/5ac6962a8a922d0b8b8be6a1/1522964012664/Kappenman+2010+Psychophys+Impedance.pdf) [[Data]](https://erpinfo.org/impedance)
-  10. [Sustained-Attention Driving](https://figshare.com/articles/Multi-channel_EEG_recordings_during_a_sustained-attention_driving_task/6427334/5): 27 subjects for sustained-attention driving in a VR settin for monitoring event-related potentials. Each subject participated in two 90 min sessions (w/o and with kinesthetic feedback) and recorded with 32-channels and 500Hz. [[Article]](https://www.nature.com/articles/s41597-019-0027-4#Sec12) [[Pre-processed dataset]](https://figshare.com/articles/Multi-channel_EEG_recordings_during_a_sustained-attention_driving_task_preprocessed_dataset_/7666055/3)
+  10. [Sustained-Attention Driving](https://figshare.com/articles/Multi-channel_EEG_recordings_during_a_sustained-attention_driving_task/6427334/5): 27 subjects for sustained-attention driving in a VR settin for monitoring event-related potentials. Each subject participated in two 90-min sessions (w/o and with kinesthetic feedback) and recorded with 32-channels and 500Hz. [[Article]](https://www.nature.com/articles/s41597-019-0027-4#Sec12) [[Pre-processed dataset]](https://figshare.com/articles/Multi-channel_EEG_recordings_during_a_sustained-attention_driving_task_preprocessed_dataset_/7666055/3)
   11. [Dryad-Speech](https://datadryad.org/stash/dataset/doi:10.5061/dryad.070jc): 5 different experiments for studying natural speech comprehension through a variety of tasks including audio, visual stimulus and imagined speech. (i) Audio-book version of a popular mid-20th century American work of fiction - 19 subjects, (ii) presentation of the same trials in the same order, but with each of the 28 speech segments played in reverse, (iii) N400 experiment: subjects read 300 sentences presented  with the rest of the sentence and half which ended with an incongruent word - , (iv) cocktail party experiment: 33 subjects undertook 30 trials, each of 60 s in length, where they were presented with 2 classic works of fiction: one to the left ear, and the other to the right ear. Subjects were divided into 2 groups of 17 and 16 (+1 excluded subject) with each group instructed to attend to the story in either the left or right ear throughout the entire 30 trials, (v) multisensory experiment:  stimuli were drawn from a set of videos that consisted of a male speaking American English in a conversational-like manner. [[Main Article]](https://www.sciencedirect.com/science/article/pii/S0960982218301465) [[Supplemntary Article]](https://www.ncbi.nlm.nih.gov/pubmed/26412129)
   12. [ERP Core](https://github.com/andrewxstewart/ERP_CORE) 6-7 ERP paradigms including N170, N400, LRP/ERN etc., from 40 participants, includes analysis scripts, experiments, results, and data. [[Article]](https://psyarxiv.com/4azqm/) [[Website]](https://erpinfo.org/erp-core)
   
@@ -104,41 +105,41 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   2. https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software
   3. https://github.com/pbashivan/EEGLearn/tree/master/Sample%20data 
   4. Section 2: https://arxiv.org/pdf/1611.08024.pdf 
-  6. EEG Databases for Emotion Recognition, NTU 
-  7. https://engineuring.wordpress.com/2009/07/08/downloadable-eeg-data/ 
-  8. http://www.brainsignals.de/
-  9. http://www.fil.ion.ucl.ac.uk/spm/data/
-  10. http://www.brainliner.jp/search/showall/1
-  11. http://bnci-horizon-2020.eu/database/data-sets
-  13. http://archive.ics.uci.edu/ml/datasets/EEG+Database
-  15. https://www.physionet.org/physiobank/database/#neuro
-  16. https://sites.google.com/site/iitrcsepradeep7/resume
-  18. http://memory.psych.upenn.edu/RAM
-  19. http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/
-  20. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8616018
-  21. https://arxiv.org/pdf/1805.06427.pdf
-  22. http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets
-  23. http://studycatalog.org/
-  26. https://ieee-dataport.org/data-competitions
-  27. The Australian EEG Database https://aed.newcastle.edu.au/AED/login.jsp [contact: aed@newcastle.edu.au] 
-  28. Links for more datasets: http://www.fieldtriptoolbox.org/faq/open_data/ (might include some duplicates)
-  29. https://figshare.com/articles/EEG_dataset/8091242 a paper with the same title is also there
-  30. [Search Enginer: Might include a lot of duplicates] https://app.dimensions.ai/discover/data_set?search_text=eeg%20brain-computer%20interfaces&search_type=kws&search_field=full_search
-  31. BIDS dataset: https://github.com/bids-standard/bids-examples https://osf.io/cj2dr/ https://zenodo.org/record/2536267 https://osf.io/dvmrb/
-  32. Another platform for Neuro datasets: https://openneuro.org/
-  33. Brain Invaders data: https://arxiv.org/abs/1905.05182
-  34. User-security based public datasets in section 4.2 of the paper, "A Survey on Brain Biometrics"
-  35. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493744/ For Motor Imagery
-  36. https://thinquanaut.wordpress.com/open-data-sources/
-  37. https://mimic.physionet.org/
-  38. Data: https://drive.google.com/drive/folders/0B3jfvN2T6iLMLWJMMVJMSXBqajg Paper: https://static1.squarespace.com/static/5abefa62d274cb16de90e935/t/5ac6962a8a922d0b8b8be6a1/1522964012664/Kappenman+2010+Psychophys+Impedance.pdf
-  39. RAM dataset: http://memory.psych.upenn.edu/RAM
-  40. https://osf.io/bndjg/ Article: https://www.ncbi.nlm.nih.gov/pubmed/25450163
-  41. https://github.com/voytekresearch/OpenData
-  42. contact for data: https://www.krigolsonteaching.com/uploads/4/3/8/4/43848243/2002_holroydcoles.pdf
-  43. contact for data: https://medicalxpress.com/news/2017-06-brain-preference-based-decisions.html
-  44. STRUM: A new Dataset for Neuroergonomics Research. Strum dataset is not available on headit.ucsd .. contact authors
-  45. https://paperswithcode.com/search?q=eeg+dataset
+  5. EEG Databases for Emotion Recognition, NTU 
+  6. https://engineuring.wordpress.com/2009/07/08/downloadable-eeg-data/ 
+  7. http://www.brainsignals.de/
+  8. http://www.fil.ion.ucl.ac.uk/spm/data/
+  9. http://www.brainliner.jp/search/showall/1
+  10. http://bnci-horizon-2020.eu/database/data-sets
+  11. http://archive.ics.uci.edu/ml/datasets/EEG+Database
+  12. https://www.physionet.org/physiobank/database/#neuro
+  13. https://sites.google.com/site/iitrcsepradeep7/resume
+  14. http://memory.psych.upenn.edu/RAM
+  15. http://fcon_1000.projects.nitrc.org/indi/cmi_eeg/
+  16. https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8616018
+  17. https://arxiv.org/pdf/1805.06427.pdf
+  18. http://www.gtec.at/Research/Biosignal-Data-Sets/content/Biosignal-Data-Sets
+  19. http://studycatalog.org/
+  20. https://ieee-dataport.org/data-competitions
+  21. The Australian EEG Database https://aed.newcastle.edu.au/AED/login.jsp [contact: aed@newcastle.edu.au] 
+  22. Links for more datasets: http://www.fieldtriptoolbox.org/faq/open_data/ (might include some duplicates)
+  23. https://figshare.com/articles/EEG_dataset/8091242 a paper with the same title is also there
+  24. [Search Enginer: Might include a lot of duplicates] https://app.dimensions.ai/discover/data_set?search_text=eeg%20brain-computer%20interfaces&search_type=kws&search_field=full_search
+  25. BIDS dataset: https://github.com/bids-standard/bids-examples https://osf.io/cj2dr/ https://zenodo.org/record/2536267 https://osf.io/dvmrb/
+  26. Another platform for Neuro datasets: https://openneuro.org/
+  27. Brain Invaders data: https://arxiv.org/abs/1905.05182
+  28. User-security based public datasets in section 4.2 of the paper, "A Survey on Brain Biometrics"
+  29. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5493744/ For Motor Imagery
+  30. https://thinquanaut.wordpress.com/open-data-sources/
+  31. https://mimic.physionet.org/
+  32. Data: https://drive.google.com/drive/folders/0B3jfvN2T6iLMLWJMMVJMSXBqajg Paper: https://static1.squarespace.com/static/5abefa62d274cb16de90e935/t/5ac6962a8a922d0b8b8be6a1/1522964012664/Kappenman+2010+Psychophys+Impedance.pdf
+  33. RAM dataset: http://memory.psych.upenn.edu/RAM
+  34. https://osf.io/bndjg/ Article: https://www.ncbi.nlm.nih.gov/pubmed/25450163
+  35. https://github.com/voytekresearch/OpenData
+  36. contact for data: https://www.krigolsonteaching.com/uploads/4/3/8/4/43848243/2002_holroydcoles.pdf
+  37. contact for data: https://medicalxpress.com/news/2017-06-brain-preference-based-decisions.html
+  38. STRUM: A new Dataset for Neuroergonomics Research. Strum dataset is not available on headit.ucsd .. contact authors
+  39. https://paperswithcode.com/search?q=eeg+dataset
   
  
   ### Resources to search for database [Unfiltered]
