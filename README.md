@@ -14,8 +14,9 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   10. [Imagination of Right-hand Thumb Movement](https://archive.ics.uci.edu/ml/datasets/Planning+Relax): In every trial, subjects were asked to rest and rest data was recorded for 5 mins. Further, 5 second epoch data was also recorded when subjects were asked to imagine right hand thumb movement. 5 of such imagined motor movement, and rest state was recorded for each trial. Single subject, 8 electrodes at 256Hz.
   11. [Mental-Imagery Dataset](https://figshare.com/collections/A_large_electroencephalographic_motor_imagery_dataset_for_electroencephalographic_brain_computer_interfaces/3917698): 13 participants with over 60,000 examples of motor imageries in 4 interaction paradigms recorded with 38 channels medical-grade EEG system. It contains data for upto 6 mental imageries primarily for the motor movements. [[Article]](https://www.nature.com/articles/sdata2018211#ref-CR57)
 
+* **Motor-Execution**
+  1. [Freewill Reaching and Grasping](https://doi.org/10.6084/m9.figshare.28632599): Twenty-three healthy right-handed young adults (age range from 18 to 24) performed upper-limb movement execution for freewill reaching and grasping tasks. It contains 6000 trials, including a sufficient time window for both pre-movement and post-movement analysis. The data is recorded from 31 electroencephalogram (EEG) channels, 4 electrooculogram (EOG) channels, 1 stimulus channel, and 3 acceleration channels.
 
-  
 * **Emotion-Recognition**
   1. [DEAP](http://www.eecs.qmul.ac.uk/mmv/datasets/deap/): Includes 32 subjects, each watching 1-min long excerpts of music-videos, rated by users in terms of arousal/valence/like-dislike/dominance/familiarity, and frontal face recording of 22/32 subjects.
   2. [Enterface'06](http://www.enterface.net/results/): Enterface'06 Project 07: EEG(64 Channels) + fNIRS + face video, Includes 16 subjects, where emotions were elicited through selected subset of IAPS dataset.
