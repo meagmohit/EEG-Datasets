@@ -81,9 +81,8 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
   4. [EEG-IO](http://gnan.ece.gatech.edu/eeg-eyeblinks/): Voluntary single eye-blinks (external stimulation was provided) and EEG was recorded for frontal electrodes (Fp1, Fp2) for 20 subjects using OpenBCI Device and BIOPAC Cap100C. One session was conducted including around 25 blinks per subject. Manual annotation was done using video feed. [[Article]](https://proceedings.allerton.csl.illinois.edu/media/files/0174.pdf)
   5. [EEG-VV, EEG-VR](http://gnan.ece.gatech.edu/eeg-eyeblinks/): Involuntary eye-blinks (natural blinks) and EEG was recorded for frontal electrodes (Fp1, Fp2) for 12 subjects using OpenBCI Device and BIOPAC Cap100C. Subjects performed two activities - watching a video (EEG-VV) and reading an article (EEG-VR). Manual annotation was done using video feed. [[Article]](https://proceedings.allerton.csl.illinois.edu/media/files/0174.pdf)
   6. [Eye State Prediction](http://suendermann.com/corpus/EEG_Eyes.arff.gz): 117 seconds recording of a single subject with labeled eye state data (open and closed) recorded using EPOC headset (14 electrodes). [[Article]](http://suendermann.com/su/pdf/aihls2013.pdf)
-  7. [Kara-One](http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html): Imagined and vocalized phonemic and single-word prompts to access the language and speech production. 14 subjects recorded using 64-channel Neuroscan Quick-cap, along with face tracking and audio. [[Article]](http://www.cs.toronto.edu/~complingweb/data/karaOne/ZhaoRudzicz15.pdf)
-  8. [EEGEyeNet](https://openreview.net/forum?id=Nc2uduhU9qa): EEG and Eye Tracking recordings from 356 different subjects collected from three different experimental paradigms (left-right, angle-amplitude and absolute position) and with 128-channels. [[Article]](https://openreview.net/forum?id=Nc2uduhU9qa) [[Data]](https://osf.io/ktv7m/)
-  9. [mEBAL](https://github.com/BiDAlab/mEBAL): A multimodal database for eye blink detection and attention level estimation. NIR + RGB Cameras + EEG signals from 38 different students comprising of 3000 blink samples. [[Article]](https://arxiv.org/pdf/2006.05327.pdf) [[Data]](https://github.com/BiDAlab/mEBAL)
+  7. [EEGEyeNet](https://openreview.net/forum?id=Nc2uduhU9qa): EEG and Eye Tracking recordings from 356 different subjects collected from three different experimental paradigms (left-right, angle-amplitude and absolute position) and with 128-channels. [[Article]](https://openreview.net/forum?id=Nc2uduhU9qa) [[Data]](https://osf.io/ktv7m/)
+  8. [mEBAL](https://github.com/BiDAlab/mEBAL): A multimodal database for eye blink detection and attention level estimation. NIR + RGB Cameras + EEG signals from 38 different students comprising of 3000 blink samples. [[Article]](https://arxiv.org/pdf/2006.05327.pdf) [[Data]](https://github.com/BiDAlab/mEBAL)
   
 * **Miscellaneous**
   1. [MNIST Brain Digits](http://mindbigdata.com/opendb/index.html): EEG data when a digit(0-9) is shown to the subject, recorded 2s for a single subject using Minwave, EPOC, Muse, Insight. Includes over 1.2M samples. 
@@ -98,8 +97,9 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
 * **Clinical EEG**
   1. [TUH EEG Resources](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml): Massive amount of data for (i) Abnormal EEG and (ii) EEG Seizures
   2. [Predict-UNM](http://predict.cs.unm.edu/): A large repository of clinical EEG datasets
-  
-  
+     
+* **Imagined Speech**
+  1. [Kara-One](http://www.cs.toronto.edu/~complingweb/data/karaOne/karaOne.html): Imagined and vocalized phonemic and single-word prompts to access the language and speech production. 14 subjects recorded using 64-channel Neuroscan Quick-cap, along with face tracking and audio. [[Article]](http://www.cs.toronto.edu/~complingweb/data/karaOne/ZhaoRudzicz15.pdf)
     
   
 ### Others [Unfiltered]
