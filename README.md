@@ -46,7 +46,9 @@ A list of all public EEG-datasets. This list of EEG-resources is not exhaustive.
    3. [SSVEP - Visual Search/Discrimination and Handshake](https://archive.ics.uci.edu/ml/datasets/EEG+Steady-State+Visual+Evoked+Potential+Signals#): Includes 3 different tests, (i) Five Box visual test: attended and unattended disc and square based stimuli, (ii) visual search within natural images: search of a yellow dot stimuli in B&W natural images, (iii) hand shake test: showing left/right hand closed/open images. 30 subjects, 14 electrodes. [[Article 1]](http://www.journalijar.com/uploads/154_IJAR-13703.pdf) [[Article 2]](https://www.hindawi.com/journals/ddns/2018/2143873/) [[More Dataset: Dataset 2]](http://www2.hu-berlin.de/eyetracking-eeg/testdata.html)
    
    4. [Synchronized Brainwave Dataset](https://www.kaggle.com/berkeley-biosense/synchronized-brainwave-dataset): 15 people were presented with 2 different video stimulus including blinks, relaxation, mental mathematics, counting color boxes, and watching superbowl ads. [[Stimulus 1]](https://www.youtube.com/watch?v=zkGoPdpRvaU&feature=youtu.be) [[Stimulus 2]](https://www.youtube.com/watch?v=sxqlOoBBjvc&feature=youtu.be)
-  
+
+   5. [EEG Dataset for Natural Image Recognition](https://data.mendeley.com/datasets/g9shp2gxhy/2): 32 subjects; 14-channel Emotiv EPOC X headset at 128 Hz sampling. Participants viewed visual object images (apple, flower, car, human face). Useful for visual-stimulus EEG classification and decoding tasks. [[DOI]](https://doi.org/10.17632/g9shp2gxhy.2)
+
 * **Event Related Potentials [ERPs]**
   1. [Pattern Visual Evoked Potentials](https://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software): Dataset#5, 2 subjects for checkboard light pattern (oddball paradigm) recorded at O1 position. 
   2. [Face vs. House Discrimination](https://purl.stanford.edu/xd109qh3109): 7 Epileptic subjects were presented with 50  grayscale stimulations each for Face and House pictures. For each subject, total 3 experimental runs were conducted resulting in 300 stimulations. 
